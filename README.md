@@ -1,8 +1,8 @@
 # Hi 👋, I'm Nandini Rahane
 
-### Computer Engineering Student | Full-Stack Developer | Data Analysis Enthusiast
+### Computer Engineering Student at VIT Pune
 
-Computer Engineering student interested in building data-driven web applications and analysing real-world datasets. 
+I'am interested in building data-driven web applications and analysing real-world datasets. 
 
 I enjoy working with data, uncovering patterns using Python and SQL, and developing full-stack applications that make information accessible and meaningful.
 
